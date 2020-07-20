@@ -3,6 +3,7 @@ name: Update stats
 on:
   schedule:
     # Runs at 12am UTC
+    # 27101512-15da-4d3f-908a-e49d6b8e93e0
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -13,7 +14,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN}}
+          WAKATIME_API_KEY: 27101512-15da-4d3f-908a-e49d6b8e93e0
+          GH_TOKEN: 0e8183ab9d94b0bbb3935726955a1ce2b79784d0
           USERNAME: LikeRainDay
           SHOW_TITLE: false
