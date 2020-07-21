@@ -15,3 +15,6 @@ jobs:
       - uses: LikeRainDay/LikeRainDay@master
         with:
           WAKATIME_API_KEY: 27101512-15da-4d3f-908a-e49d6b8e93e0
+      - name: My first step
+        uses: ./.github/workflows/update-stats
+        
