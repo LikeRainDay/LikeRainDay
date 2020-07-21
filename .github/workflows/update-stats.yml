@@ -12,7 +12,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: LikeRainDay/LikeRainDay@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: 27101512-15da-4d3f-908a-e49d6b8e93e0
       - name: My first step
