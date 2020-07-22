@@ -1,4 +1,4 @@
-<img  align='right' height="150" src="./pic/img_rain_1.gif">
+<img  align='right' height="150" src="pic/img_rain_1.gif">
 
 
 
