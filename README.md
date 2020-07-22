@@ -6,7 +6,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 Ask me about anything related to Java/Typescript/Python/Kotlin/Android/C++
 - ⚡ Fun fact: I :heart: :dog:s
 
-📊 **This yesterday I spent my time on**
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 Kotlin      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
