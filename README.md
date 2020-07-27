@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 July, 2020 - 25 July, 2020
+Week: 19 July, 2020 - 26 July, 2020
 
 Java       4 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   26.83 % 
 Kotlin     4 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   26.71 % 
