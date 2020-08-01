@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2020 - 30 July, 2020
+Week: 24 July, 2020 - 31 July, 2020
 
-Kotlin     5 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   27.45 % 
-Java       4 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   22.69 % 
-Python     4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-Other      2 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Markdown   1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Kotlin     6 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   33.66 % 
+Python     4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Java       3 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Other      2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Markdown   1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
 ```
 <!--END_SECTION:waka-->
