@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2020 - 07 August, 2020
+Week: 01 August, 2020 - 08 August, 2020
 
-Kotlin     3 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-Other      3 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Java       2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Markdown   1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Kotlin     3 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Other      3 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Java       2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Markdown   1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 JSON       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 <!--END_SECTION:waka-->
