@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 August, 2020 - 14 August, 2020
+Week: 08 August, 2020 - 15 August, 2020
 
 Other    10 hrs 42 mins  ████████████░░░░░░░░░░░░░   49.62 % 
 Kotlin   4 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
