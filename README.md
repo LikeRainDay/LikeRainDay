@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 August, 2020 - 26 August, 2020
+Week: 20 August, 2020 - 27 August, 2020
 
-Kotlin     11 hrs 42 mins  ████████▒░░░░░░░░░░░░░░░░   33.03 % 
-Java       8 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.30 % 
-Markdown   3 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Groovy     2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-YAML       2 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Kotlin     13 hrs 13 mins  ██████████▒░░░░░░░░░░░░░░   41.44 % 
+Java       6 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.82 % 
+Markdown   3 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+XML        1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Groovy     1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 <!--END_SECTION:waka-->
