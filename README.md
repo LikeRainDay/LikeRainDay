@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 August, 2020 - 29 August, 2020
+Week: 23 August, 2020 - 30 August, 2020
 
 Kotlin   13 hrs 53 mins  ███████████▒░░░░░░░░░░░░░   45.01 % 
 Java     9 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.86 % 
