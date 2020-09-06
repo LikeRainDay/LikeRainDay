@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 August, 2020 - 04 September, 2020
+Week: 29 August, 2020 - 05 September, 2020
 
 Java     6 hrs 43 mins   ██████████▓░░░░░░░░░░░░░░   42.06 % 
 Other    2 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
