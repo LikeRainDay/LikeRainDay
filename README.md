@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2020 - 09 September, 2020
+Week: 03 September, 2020 - 10 September, 2020
 
-Java       4 hrs 43 mins   ██████████▓░░░░░░░░░░░░░░   43.07 % 
-YAML       2 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Markdown   1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Kotlin     1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Other      52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Java       7 hrs 8 mins    ███████████████░░░░░░░░░░   59.78 % 
+Kotlin     1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+YAML       1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Markdown   55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Python     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 <!--END_SECTION:waka-->
