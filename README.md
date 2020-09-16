@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2020 - 14 September, 2020
+Week: 08 September, 2020 - 15 September, 2020
 
-Java       5 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   40.93 % 
-Markdown   2 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-Kotlin     2 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Python     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Groovy     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Kotlin     7 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   40.72 % 
+Java       4 hrs 40 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.02 % 
+Markdown   3 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Python     43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Groovy     35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 <!--END_SECTION:waka-->
