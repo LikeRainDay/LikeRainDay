@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2020 - 23 September, 2020
+Week: 17 September, 2020 - 24 September, 2020
 
-Kotlin     27 hrs 2 mins   ██████████████████████▒░░   89.67 % 
-Markdown   1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-JSON       32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Java       31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Jinja2     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Kotlin     20 hrs 53 mins  ██████████████████▒░░░░░░   72.79 % 
+Python     2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Markdown   1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Other      1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JSON       32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 ```
 <!--END_SECTION:waka-->
