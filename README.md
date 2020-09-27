@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2020 - 25 September, 2020
+Week: 19 September, 2020 - 26 September, 2020
 
 Kotlin     14 hrs 30 mins  ███████████████▓░░░░░░░░░   62.17 % 
 Python     2 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
