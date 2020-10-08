@@ -19,12 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
-Python       2 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.70 % 
-Other        38 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Properties   32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Kotlin       15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Java         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Other      42 mins         ██████████████████████░░░   88.14 % 
+Markdown   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 ```
 <!--END_SECTION:waka-->
