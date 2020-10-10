@@ -19,9 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2020 - 08 October, 2020
+Week: 02 October, 2020 - 09 October, 2020
 
-Other      42 mins         ██████████████████████░░░   88.14 % 
-Markdown   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Kotlin     3 hrs 43 mins   ███████████████░░░░░░░░░░   60.08 % 
+Java       54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Other      42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Markdown   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Text       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 <!--END_SECTION:waka-->
