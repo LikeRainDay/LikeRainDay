@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2020 - 17 October, 2020
+Week: 11 October, 2020 - 18 October, 2020
 
 Java       5 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
 Kotlin     4 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.84 % 
