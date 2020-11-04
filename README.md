@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2020 - 02 November, 2020
+Week: 27 October, 2020 - 03 November, 2020
 
-Kotlin     17 hrs 35 mins  ██████████████████░░░░░░░   71.93 % 
-Markdown   1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Python     1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Java       1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-YAML       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Kotlin       19 hrs 16 mins  ████████████████████▒░░░░   81.94 % 
+Markdown     1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Java         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+YAML         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Properties   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 <!--END_SECTION:waka-->
