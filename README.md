@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2020 - 13 November, 2020
+Week: 07 November, 2020 - 14 November, 2020
 
-Kotlin     22 hrs 14 mins  ████████████████████░░░░░   80.46 % 
-Java       2 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Markdown   2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Other      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-JSON       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Kotlin       23 hrs 20 mins  █████████████████████░░░░   84.16 % 
+Java         2 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Markdown     1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
