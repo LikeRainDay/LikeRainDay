@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
-Java       7 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.90 % 
-Kotlin     4 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Groovy     3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Markdown   2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-YAML       1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Java       9 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   42.71 % 
+Kotlin     3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Markdown   2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Groovy     2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+YAML       58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 ```
 <!--END_SECTION:waka-->
