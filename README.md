@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2020 - 07 January, 2021
+Week: 01 January, 2021 - 08 January, 2021
 
 SQL     13 mins         █████████████▒░░░░░░░░░░░   53.47 % 
 Java    7 mins          ███████▓░░░░░░░░░░░░░░░░░   31.15 % 
