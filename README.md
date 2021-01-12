@@ -19,11 +19,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2021 - 10 January, 2021
+Week: 04 January, 2021 - 11 January, 2021
 
-SQL     13 mins         ███████████████▓░░░░░░░░░   62.45 % 
-Other   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-CSV     3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Java    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+CSV   3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
