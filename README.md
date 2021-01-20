@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2021 - 18 January, 2021
+Week: 12 January, 2021 - 19 January, 2021
 
-Java              12 hrs 18 mins  ███████████████▓░░░░░░░░░   62.32 % 
-XML               5 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-SQL               1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-YAML              27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Protocol Buffer   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Java              17 hrs 22 mins  ████████████████▒░░░░░░░░   65.11 % 
+XML               7 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.95 % 
+SQL               1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+YAML              27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Protocol Buffer   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
