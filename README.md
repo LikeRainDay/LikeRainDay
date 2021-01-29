@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2021 - 27 January, 2021
+Week: 21 January, 2021 - 28 January, 2021
 
-Java              21 hrs 8 mins   ██████████████▓░░░░░░░░░░   58.21 % 
-XML               7 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Groovy            1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-YAML              1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Protocol Buffer   1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Java              20 hrs 13 mins  ███████████████▒░░░░░░░░░   61.66 % 
+XML               6 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Groovy            1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Protocol Buffer   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+YAML              48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 <!--END_SECTION:waka-->
