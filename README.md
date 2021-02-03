@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2021 - 01 February, 2021
+Week: 26 January, 2021 - 02 February, 2021
 
-Java     28 hrs 35 mins  █████████████████░░░░░░░░   68.42 % 
-XML      3 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-YAML     3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Groovy   2 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Java     31 hrs 14 mins  ██████████████████▓░░░░░░   74.79 % 
+YAML     3 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Groovy   2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+XML      1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 Docker   55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 <!--END_SECTION:waka-->
