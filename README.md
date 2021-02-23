@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2021 - 21 February, 2021
+Week: 15 February, 2021 - 22 February, 2021
 
-Java         24 hrs 55 mins  █████████████▓░░░░░░░░░░░   54.44 % 
-Docker       6 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Groovy       6 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-YAML         2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Properties   1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Java         23 hrs 59 mins  █████████████░░░░░░░░░░░░   51.94 % 
+Docker       7 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Groovy       6 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+YAML         2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Properties   1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 <!--END_SECTION:waka-->
