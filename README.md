@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2021 - 28 February, 2021
+Week: 22 February, 2021 - 01 March, 2021
 
-Java         36 hrs 18 mins  ███████████████████▒░░░░░   76.86 % 
-Groovy       4 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Properties   2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-XML          1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-SQL          55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Java         38 hrs 12 mins  ████████████████████░░░░░   80.14 % 
+Groovy       3 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Properties   2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+YAML         1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Markdown     52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 <!--END_SECTION:waka-->
