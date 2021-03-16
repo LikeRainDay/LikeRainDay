@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 March, 2021 - 14 March, 2021
+Week: 08 March, 2021 - 15 March, 2021
 
-Java       39 hrs 4 mins   ███████████████████▒░░░░░   76.97 % 
-XML        3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-YAML       2 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Groovy     1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Markdown   1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Java         36 hrs 55 mins  ██████████████████▓░░░░░░   74.67 % 
+XML          2 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+YAML         2 hrs 38 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Properties   2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Markdown     1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 <!--END_SECTION:waka-->
