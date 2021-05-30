@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 May, 2021 - 28 May, 2021
+Week: 22 May, 2021 - 29 May, 2021
 
 Python     4 hrs 38 mins   ███████████████████░░░░░░   75.69 % 
 CSV        1 hr 17 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.20 % 
