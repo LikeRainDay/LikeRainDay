@@ -19,10 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 May, 2021 - 02 June, 2021
+Week: 27 May, 2021 - 03 June, 2021
 
-Python       49 mins         █████████████████████▒░░░   84.75 % 
-Java         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Python       36 mins         ███████████████████████░░   92.37 % 
+Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
 <!--END_SECTION:waka-->
