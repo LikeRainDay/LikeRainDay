@@ -19,9 +19,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 May, 2021 - 04 June, 2021
+Week: 29 May, 2021 - 05 June, 2021
 
-Python       36 mins         ███████████████████████░░   92.37 % 
-Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Python       36 mins         ██████████████████████▓░░   91.17 % 
+Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 <!--END_SECTION:waka-->
