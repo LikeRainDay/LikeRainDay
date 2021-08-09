@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 02 August, 2021 - 08 August, 2021
 
 Java     12 hrs 37 mins  ████████████████████▒░░░░   80.93 % 
 Groovy   1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
