@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2021 - 22 August, 2021
+Week: 17 August, 2021 - 23 August, 2021
 
-Python            11 hrs 15 mins  ██████████▒░░░░░░░░░░░░░░   41.30 % 
-Java              11 hrs          ██████████░░░░░░░░░░░░░░░   40.36 % 
-Groovy            2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Properties        1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Protocol Buffer   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Java              12 hrs 25 mins  ████████████░░░░░░░░░░░░░   47.99 % 
+Python            7 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Groovy            2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Properties        1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Protocol Buffer   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 <!--END_SECTION:waka-->
