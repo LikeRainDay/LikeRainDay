@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 August, 2021 - 24 August, 2021
+Week: 19 August, 2021 - 25 August, 2021
 
-Java         11 hrs 13 mins  ███████████░░░░░░░░░░░░░░   44.22 % 
-Python       8 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   32.25 % 
-Groovy       2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Properties   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-YAML         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Java         10 hrs 28 mins  ██████████▓░░░░░░░░░░░░░░   43.14 % 
+Python       9 hrs 1 min     █████████▒░░░░░░░░░░░░░░░   37.15 % 
+Groovy       1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Properties   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+YAML         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 <!--END_SECTION:waka-->
