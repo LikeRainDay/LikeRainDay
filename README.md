@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
 Python   17 hrs 49 mins  ████████████░░░░░░░░░░░░░   47.55 % 
 Java     14 hrs 56 mins  ██████████░░░░░░░░░░░░░░░   39.84 % 
