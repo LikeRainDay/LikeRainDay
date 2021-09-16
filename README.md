@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2021 - 14 September, 2021
+Week: 09 September, 2021 - 15 September, 2021
 
-Python   32 hrs          ██████████████████░░░░░░░   72.58 % 
-Groovy   3 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Java     3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-YAML     1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Bash     55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Python   29 hrs 51 mins  ██████████████████░░░░░░░   71.63 % 
+Groovy   3 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Java     2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+YAML     1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+CSV      1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 ```
 <!--END_SECTION:waka-->
