@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 September, 2021 - 26 September, 2021
+Week: 21 September, 2021 - 27 September, 2021
 
-Python     10 hrs 35 mins  █████████▓░░░░░░░░░░░░░░░   38.47 % 
-Go         9 hrs 38 mins   ████████▓░░░░░░░░░░░░░░░░   35.01 % 
-YAML       2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Markdown   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Java       1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Python     15 hrs 25 mins  █████████████▓░░░░░░░░░░░   54.74 % 
+Go         5 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.24 % 
+YAML       2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Java       1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Markdown   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 <!--END_SECTION:waka-->
