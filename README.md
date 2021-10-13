@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 October, 2021 - 11 October, 2021
+Week: 06 October, 2021 - 12 October, 2021
 
-Python   4 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.29 % 
-Java     2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Groovy   2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-YAML     1 hr 55 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Other    1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Python   5 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+Java     2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Groovy   2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+YAML     1 hr 55 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Other    1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 ```
 <!--END_SECTION:waka-->
