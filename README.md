@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2021 - 13 October, 2021
+Week: 08 October, 2021 - 14 October, 2021
 
-Python   4 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.44 % 
-Java     2 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Groovy   1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Other    1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Docker   46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Python   5 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   30.33 % 
+Java     4 hrs 59 mins   ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Groovy   1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Other    1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Docker   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 <!--END_SECTION:waka-->
