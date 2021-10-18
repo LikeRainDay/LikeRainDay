@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2021 - 16 October, 2021
+Week: 11 October, 2021 - 17 October, 2021
 
-Java         7 hrs 29 mins   ████████████░░░░░░░░░░░░░   48.50 % 
-Python       2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Groovy       2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Other        50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Properties   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Java         7 hrs 29 mins   ████████████░░░░░░░░░░░░░   47.42 % 
+Python       2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Groovy       2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Other        50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Properties   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 <!--END_SECTION:waka-->
