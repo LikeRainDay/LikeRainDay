@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2021 - 22 October, 2021
+Week: 17 October, 2021 - 23 October, 2021
 
-Java         6 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   40.72 % 
-Python       3 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-Go           1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Markdown     46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Properties   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Java       7 hrs 31 mins   █████████▒░░░░░░░░░░░░░░░   37.96 % 
+Python     4 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Go         2 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Markdown   1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Other      1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 ```
 <!--END_SECTION:waka-->
