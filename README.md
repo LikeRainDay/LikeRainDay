@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
-Go                7 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-Java              6 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-Python            5 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.51 % 
-Protocol Buffer   2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Markdown          1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Go                8 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   29.94 % 
+Java              6 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.94 % 
+Python            5 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Protocol Buffer   4 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Markdown          1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
 <!--END_SECTION:waka-->
