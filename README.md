@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2021 - 02 November, 2021
+Week: 28 October, 2021 - 03 November, 2021
 
-Java              9 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.01 % 
-Go                7 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.24 % 
-Protocol Buffer   3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Python            2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-SQL               1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Java              14 hrs 6 mins   ███████████▒░░░░░░░░░░░░░   45.03 % 
+Go                3 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Protocol Buffer   3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+XML               2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Python            1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 ```
 <!--END_SECTION:waka-->
