@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 November, 2021 - 14 November, 2021
+Week: 09 November, 2021 - 15 November, 2021
 
-Go       6 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Java     6 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Kotlin   5 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-YAML     3 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Groovy   2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Go       5 hrs 55 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Kotlin   4 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Other    3 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Java     3 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Python   3 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 ```
 <!--END_SECTION:waka-->
