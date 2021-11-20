@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 November, 2021 - 18 November, 2021
+Week: 13 November, 2021 - 19 November, 2021
 
-Java     9 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   35.32 % 
-Python   3 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-YAML     2 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Other    2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Go       2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Java     9 hrs 42 mins   ██████████░░░░░░░░░░░░░░░   40.60 % 
+Python   2 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Go       2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Other    1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Groovy   1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 <!--END_SECTION:waka-->
