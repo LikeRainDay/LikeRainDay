@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-Java     17 hrs 50 mins  ████████████▓░░░░░░░░░░░░   51.30 % 
-Python   6 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.64 % 
-SQL      3 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-YAML     1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Groovy   1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Java     13 hrs 43 mins  ███████████░░░░░░░░░░░░░░   44.33 % 
+Python   5 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 % 
+SQL      3 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Scala    1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+YAML     1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 ```
 <!--END_SECTION:waka-->
