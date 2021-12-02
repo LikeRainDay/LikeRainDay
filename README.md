@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
+Week: 25 November, 2021 - 01 December, 2021
 
-Java         8 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   35.94 % 
-Scala        6 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Python       3 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Markdown     58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Git Config   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Java       9 hrs 31 mins   ████████▒░░░░░░░░░░░░░░░░   32.78 % 
+Scala      5 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Python     4 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Other      3 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Markdown   1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 <!--END_SECTION:waka-->
