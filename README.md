@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2021 - 05 December, 2021
+Week: 30 November, 2021 - 06 December, 2021
 
-Python   9 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
-Dart     4 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Other    4 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Java     3 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-YAML     3 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Python   11 hrs 8 mins   ████████░░░░░░░░░░░░░░░░░   32.66 % 
+Other    3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Dart     3 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Java     3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+YAML     2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 ```
 <!--END_SECTION:waka-->
