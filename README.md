@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
-Python   13 hrs 9 mins   ███████▓░░░░░░░░░░░░░░░░░   30.21 % 
-Java     8 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-XML      4 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-SQL      3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Dart     3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Python   17 hrs 8 mins   █████████░░░░░░░░░░░░░░░░   36.10 % 
+Java     10 hrs 9 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.39 % 
+XML      6 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+SQL      4 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+YAML     2 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 ```
 <!--END_SECTION:waka-->
