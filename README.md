@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
-Python   13 hrs 26 mins  ███████▒░░░░░░░░░░░░░░░░░   29.10 % 
-Java     13 hrs 17 mins  ███████▒░░░░░░░░░░░░░░░░░   28.77 % 
-Kotlin   7 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-XML      7 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-SQL      1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Java     12 hrs 17 mins  ███████▒░░░░░░░░░░░░░░░░░   28.82 % 
+Python   10 hrs 3 mins   ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Kotlin   8 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+XML      7 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Other    1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 <!--END_SECTION:waka-->
