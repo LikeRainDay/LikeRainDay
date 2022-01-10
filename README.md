@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2022 - 08 January, 2022
+Week: 03 January, 2022 - 09 January, 2022
 
 XML        6 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.87 % 
 Python     6 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.22 % 
