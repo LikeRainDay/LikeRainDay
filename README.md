@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2022 - 10 January, 2022
+Week: 05 January, 2022 - 11 January, 2022
 
-XML      8 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 % 
-Java     8 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 % 
-Python   6 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Other    4 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-SQL      54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Java       9 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.05 % 
+XML        9 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.27 % 
+Python     4 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Other      3 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+textmate   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 <!--END_SECTION:waka-->
