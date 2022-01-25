@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2022 - 23 January, 2022
+Week: 18 January, 2022 - 24 January, 2022
 
 Java   15 hrs 13 mins  ███████████████░░░░░░░░░░   60.38 % 
 SQL    2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
