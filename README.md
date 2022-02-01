@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2022 - 30 January, 2022
+Week: 25 January, 2022 - 31 January, 2022
 
 Python   6 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   27.88 % 
 Go       3 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 % 
