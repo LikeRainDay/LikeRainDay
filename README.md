@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2022 - 31 January, 2022
+Week: 26 January, 2022 - 01 February, 2022
 
-Python   6 hrs 55 mins   ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Go       3 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-YAML     3 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Other    2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Java     1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Python     6 hrs 35 mins   ███████████░░░░░░░░░░░░░░   44.36 % 
+Java       1 hr 55 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Bash       1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Other      1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Markdown   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 <!--END_SECTION:waka-->
