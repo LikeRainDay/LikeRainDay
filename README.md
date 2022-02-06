@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
-Python     2 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   32.98 % 
-Java       1 hr 37 mins    ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-Other      1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Markdown   51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-YAML       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Other        14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.19 % 
+Vue.js       11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Markdown     7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Git Config   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+JavaScript   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 ```
 <!--END_SECTION:waka-->
