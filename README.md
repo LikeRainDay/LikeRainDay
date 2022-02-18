@@ -19,14 +19,14 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
-Total: 29 hrs 11 mins
+Total: 25 hrs 2 mins
 
-YAML       11 hrs 59 mins  ██████████▒░░░░░░░░░░░░░░   41.04 % 
-Java       9 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.69 % 
-Bash       1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Markdown   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Docker     53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Java       10 hrs 41 mins  ██████████▓░░░░░░░░░░░░░░   42.72 % 
+YAML       8 hrs           ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Bash       1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Markdown   1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Docker     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 <!--END_SECTION:waka-->
