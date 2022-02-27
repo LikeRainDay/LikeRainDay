@@ -19,12 +19,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 19 February, 2022 - To: 26 February, 2022
 
-Java              8 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.48 % 
-Python            4 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Go                3 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Protocol Buffer   1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-SQL               1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Python            8 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.44 % 
+Java              6 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.15 % 
+Go                4 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Protocol Buffer   2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+YAML              1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 <!--END_SECTION:waka-->
