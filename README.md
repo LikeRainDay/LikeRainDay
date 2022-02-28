@@ -18,13 +18,16 @@
 <img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=LikeRainDay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Python            8 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.44 % 
-Java              6 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.15 % 
-Go                4 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Protocol Buffer   2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-YAML              1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python            8 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   28.10 %
+Go                6 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.23 %
+Java              6 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   20.43 %
+Protocol Buffer   2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+YAML              1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+SQL               1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
+
 <!--END_SECTION:waka-->
