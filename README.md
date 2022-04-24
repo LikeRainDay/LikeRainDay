@@ -20,10 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2022 - To: 22 April 2022
+From: 16 April 2022 - To: 23 April 2022
 
 SQL               11 hrs 22 mins  ████████▒░░░░░░░░░░░░░░░░   33.83 %
-Dart              11 hrs 8 mins   ████████▒░░░░░░░░░░░░░░░░   33.13 %
+Dart              11 hrs 8 mins   ████████▒░░░░░░░░░░░░░░░░   33.14 %
 Python            4 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
 Java              3 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
 XML               49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
