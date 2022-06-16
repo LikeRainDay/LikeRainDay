@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 June 2022 - To: 14 June 2022
+From: 08 June 2022 - To: 15 June 2022
 
-Python             17 hrs 27 mins  ████████████▓░░░░░░░░░░░░   50.51 %
-Go                 7 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-SQL                6 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
-Protocol Buffer    1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-protobuf           1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Markdown           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python             19 hrs 22 mins  █████████████░░░░░░░░░░░░   51.84 %
+Go                 7 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+SQL                5 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Protocol Buffer    1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+protobuf           1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Java               34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
