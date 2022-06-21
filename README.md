@@ -31,3 +31,6 @@ protobuf           20 mins         ▒░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/LikeRainDay/count.svg" alt ="Loading">
