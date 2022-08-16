@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 14 August 2022
+From: 08 August 2022 - To: 15 August 2022
 
-Markdown       8 hrs 54 mins   ██████████▒░░░░░░░░░░░░░░   40.89 %
-Text           3 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-textmate       2 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Go             1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Python         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Makefile       53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Markdown       12 hrs 49 mins  ██████████████▒░░░░░░░░░░   57.42 %
+Text           3 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+textmate       2 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Makefile       53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Gradle         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Kotlin         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
