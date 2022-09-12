@@ -20,14 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
+From: 03 September 2022 - To: 10 September 2022
 
-Python       2 hrs 58 mins   █████████████████▓░░░░░░░   71.29 %
-Markdown     32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-Docker       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-YAML         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Markdown   31 mins         ██████████████████▒░░░░░░   72.82 %
+YAML       11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
+Dart       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
