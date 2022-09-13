@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 05 September 2022 - To: 12 September 2022
 
-Markdown   31 mins         ██████████████████▒░░░░░░   72.82 %
-YAML       11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
-Dart       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+YAML       11 mins         ████████████████████████░   96.40 %
+Dart       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
