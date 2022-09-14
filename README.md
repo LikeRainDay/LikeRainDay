@@ -20,12 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2022 - To: 12 September 2022
-
-YAML       11 mins         ████████████████████████░   96.40 %
-Dart       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
