@@ -20,7 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 09 September 2022 - To: 16 September 2022
+
+Java                   1 hr 34 mins    ███████████████████████▒░   92.83 %
+XML                    7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Shell Script           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
