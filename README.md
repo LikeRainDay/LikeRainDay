@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-Java                   5 hrs 50 mins   ████████████████████░░░░░   79.81 %
-XML                    1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-Groovy                 16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Java                   5 hrs 53 mins   ████████████████████░░░░░   79.97 %
+XML                    1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Groovy                 16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
