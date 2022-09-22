@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2022 - To: 20 September 2022
+From: 14 September 2022 - To: 21 September 2022
 
-Java                   5 hrs 53 mins   ████████████████████░░░░░   79.97 %
-XML                    1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Groovy                 16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java                   8 hrs 26 mins   ████████████████████▓░░░░   82.41 %
+XML                    1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Groovy                 16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+JAVA                   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
