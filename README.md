@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 September 2022 - To: 21 September 2022
+From: 15 September 2022 - To: 22 September 2022
 
-Java                   8 hrs 26 mins   ████████████████████▓░░░░   82.41 %
-XML                    1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-Groovy                 16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-JAVA                   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-GitIgnore file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java                   11 hrs 1 min    ██████████████████▒░░░░░░   73.86 %
+XML                    3 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+Groovy                 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+JSON                   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JAVA                   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
