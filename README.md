@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 October 2022 - To: 22 October 2022
+From: 16 October 2022 - To: 23 October 2022
 
-Java                   9 hrs 53 mins   ██████████▒░░░░░░░░░░░░░░   40.91 %
-Swift                  3 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-Other                  1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Java                   9 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   39.78 %
+Swift                  3 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Other                  1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
 ```
 
 <!--END_SECTION:waka-->
