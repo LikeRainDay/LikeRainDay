@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 October 2022 - To: 02 November 2022
+From: 27 October 2022 - To: 03 November 2022
 
-Java                13 hrs 2 mins   ██████████░░░░░░░░░░░░░░░   39.93 %
-Dart                6 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-Swift               5 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-Markdown            2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Kotlin              1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Other               52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Java                15 hrs 53 mins  ████████████▓░░░░░░░░░░░░   50.30 %
+Dart                4 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Swift               3 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Markdown            2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+XML                 47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Kotlin              46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
