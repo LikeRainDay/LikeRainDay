@@ -20,12 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 November 2022 - To: 10 November 2022
+From: 04 November 2022 - To: 11 November 2022
 
-Java                16 hrs 53 mins  ██████████████▓░░░░░░░░░░   59.14 %
-Dart                6 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-SQL                 1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Other               1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Java                21 hrs 49 mins  ███████████████████▓░░░░░   78.22 %
+SQL                 2 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Other               1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
