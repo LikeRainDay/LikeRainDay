@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 22 November 2022
+From: 16 November 2022 - To: 23 November 2022
 
-Java                   8 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-Swift                  7 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
-Kotlin                 6 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
-TypeScript             1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Groovy                 1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-XML                    43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Java                   10 hrs 30 mins  █████████▒░░░░░░░░░░░░░░░   37.61 %
+Kotlin                 6 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+Swift                  5 hrs 52 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+XML                    1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+SQL                    58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Groovy                 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
