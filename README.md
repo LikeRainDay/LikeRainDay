@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 02 December 2022
+From: 26 November 2022 - To: 03 December 2022
 
-Java                   14 hrs 56 mins  ███████████████▓░░░░░░░░░   62.61 %
-Swift                  2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-XML                    2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-SQL                    2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-Other                  32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Java                   14 hrs 56 mins  ███████████████▓░░░░░░░░░   62.47 %
+Swift                  2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+XML                    2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+SQL                    2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Other                  32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
