@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
-C#                     8 hrs 42 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
+C#                     8 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
 Java                   6 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-Kotlin                 4 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Kotlin                 4 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
 Swift                  3 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-XML                    2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Other                  2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+XML                    2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Other                  2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
 ```
 
 <!--END_SECTION:waka-->
