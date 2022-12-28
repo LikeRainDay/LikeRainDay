@@ -20,13 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Java           10 hrs 33 mins  ███████████▓░░░░░░░░░░░░░   46.64 %
-Swift          6 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.91 %
-SQL            1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-Groovy         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Other          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Java             8 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   40.00 %
+textmate         5 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
+Swift            1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Other            1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 ```
 
 <!--END_SECTION:waka-->
