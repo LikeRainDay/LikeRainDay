@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
+From: 24 December 2022 - To: 31 December 2022
 
 textmate               9 hrs 12 mins   ██████████████░░░░░░░░░░░   56.61 %
 Swift                  1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
