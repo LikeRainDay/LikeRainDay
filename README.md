@@ -20,10 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 02 January 2023
+From: 27 December 2022 - To: 03 January 2023
 
-textmate               9 hrs 12 mins   █████████████████░░░░░░░░   67.68 %
-Other                  1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+textmate               3 hrs 56 mins   ██████████░░░░░░░░░░░░░░░   39.94 %
+Swift                  3 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   31.78 %
+Other                  1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
 ```
 
 <!--END_SECTION:waka-->
