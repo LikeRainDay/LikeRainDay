@@ -20,11 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
-textmate               3 hrs 56 mins   ██████████▓░░░░░░░░░░░░░░   42.66 %
-Swift                  3 hrs 19 mins   █████████░░░░░░░░░░░░░░░░   35.97 %
-Other                  46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+Swift                  6 hrs 52 mins   █████████████████▓░░░░░░░   70.00 %
+Kotlin                 1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Java                   58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Other                  33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
 
 <!--END_SECTION:waka-->
