@@ -20,13 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 January 2023 - To: 27 January 2023
+From: 21 January 2023 - To: 28 January 2023
 
-Scala            44 mins         █████████████░░░░░░░░░░░░   52.55 %
-Java             25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.06 %
-XML              9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Markdown         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Java                   2 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   35.10 %
+textmate               1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+Scala                  44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+Swift                  37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Markdown               24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Groovy                 23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
 ```
 
 <!--END_SECTION:waka-->
