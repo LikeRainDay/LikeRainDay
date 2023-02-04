@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 January 2023 - To: 02 February 2023
+From: 27 January 2023 - To: 03 February 2023
 
-Java                   8 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   35.61 %
-C#                     5 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   23.77 %
-Dart                   2 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-textmate               1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Markdown               1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Groovy                 41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Java                   9 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.15 %
+C#                     7 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   28.55 %
+Dart                   2 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+textmate               1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Markdown               1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Groovy                 41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
