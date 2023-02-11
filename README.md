@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 February 2023 - To: 09 February 2023
+From: 03 February 2023 - To: 10 February 2023
 
-Swift               4 hrs 16 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 %
-Java                2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-C#                  2 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-XML                 1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Kotlin              1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-textmate            26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Swift                  4 hrs 18 mins   ████████░░░░░░░░░░░░░░░░░   31.40 %
+Java                   2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+XML                    1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+Kotlin                 1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+textmate               26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+JavaScript             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
