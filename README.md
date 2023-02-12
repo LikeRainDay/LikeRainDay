@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
 Swift                  4 hrs 18 mins   ████████░░░░░░░░░░░░░░░░░   31.40 %
 Java                   2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.50 %
