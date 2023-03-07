@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2023 - To: 05 March 2023
+From: 27 February 2023 - To: 06 March 2023
 
-Java               30 hrs 38 mins  █████████████████████░░░░   84.40 %
-SQL                3 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-XML                1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-spring.factories   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-TypeScript         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-textmate           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java               28 hrs 37 mins  ████████████████████▓░░░░   82.27 %
+SQL                4 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+XML                1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Markdown           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+TypeScript         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+textmate           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
