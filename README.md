@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2023 - To: 05 April 2023
+From: 30 March 2023 - To: 06 April 2023
 
-Go                24 hrs 16 mins  ██████████████▓░░░░░░░░░░   58.02 %
-Java              8 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Protocol Buffer   2 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-SQL               2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Markdown          57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-protobuf          57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Go                20 hrs 3 mins   ████████████░░░░░░░░░░░░░   48.32 %
+Java              10 hrs 44 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
+SQL               3 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Protocol Buffer   2 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+Markdown          1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+protobuf          1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
