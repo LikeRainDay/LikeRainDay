@@ -20,13 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 25 April 2023 - To: 02 May 2023
 
-Java             1 hr 13 mins    ██████████████████████▓░░   91.16 %
-Gradle           7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java              3 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   38.09 %
+Go                1 hr 49 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
+Protocol Buffer   1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Swift             42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+JavaScript        41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+protobuf          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 ```
 
 <!--END_SECTION:waka-->
