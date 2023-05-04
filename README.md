@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2023 - To: 02 May 2023
+From: 26 April 2023 - To: 03 May 2023
 
-Java              3 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   38.09 %
-Go                1 hr 49 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
-Protocol Buffer   1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-Swift             42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-JavaScript        41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-protobuf          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Java              2 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   35.69 %
+Go                2 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   32.34 %
+Protocol Buffer   1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+TypeScript        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+protobuf          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Groovy            18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 ```
 
 <!--END_SECTION:waka-->
