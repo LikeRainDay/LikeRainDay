@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2023 - To: 05 May 2023
+From: 29 April 2023 - To: 06 May 2023
 
-Go                7 hrs 25 mins   ███████████░░░░░░░░░░░░░░   44.58 %
-Java              7 hrs 13 mins   ███████████░░░░░░░░░░░░░░   43.41 %
-Protocol Buffer   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-protobuf          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-YAML              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Java                   12 hrs 13 mins  █████████████▒░░░░░░░░░░░   53.81 %
+Go                     8 hrs 23 mins   █████████▒░░░░░░░░░░░░░░░   36.93 %
+Protocol Buffer        1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+protobuf               21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+YAML                   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
