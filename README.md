@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 02 June 2023
+From: 27 May 2023 - To: 03 June 2023
 
 Java                     16 hrs 48 mins  ██████████████▓░░░░░░░░░░   58.18 %
 Groovy                   1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
