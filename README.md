@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2023 - To: 07 June 2023
+From: 01 June 2023 - To: 08 June 2023
 
-Java                13 hrs 47 mins  ███████████░░░░░░░░░░░░░░   44.62 %
-Swift               7 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   24.28 %
-ObjectiveC          1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Objective-C         1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-SQL                 1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Java                8 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.59 %
+Swift               7 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.86 %
+ObjectiveC          1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Objective-C         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+SQL                 1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
