@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2023 - To: 25 August 2023
+From: 19 August 2023 - To: 26 August 2023
 
 Java                17 hrs 3 mins   ███████████████▒░░░░░░░░░   61.00 %
 SQL                 5 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.59 %
