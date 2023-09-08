@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-Java              3 hrs 12 mins   ███████████▓░░░░░░░░░░░░░   46.82 %
-SQL               1 hr 58 mins    ███████▒░░░░░░░░░░░░░░░░░   28.86 %
-JavaScript        1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
-Java Properties   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-XML               9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+SQL               26 mins         ███████████▒░░░░░░░░░░░░░   45.87 %
+Java              22 mins         █████████▓░░░░░░░░░░░░░░░   38.25 %
+JavaScript        9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+Git               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
