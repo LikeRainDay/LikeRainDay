@@ -20,13 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-SQL               26 mins         ███████████▒░░░░░░░░░░░░░   45.87 %
-Java              22 mins         █████████▓░░░░░░░░░░░░░░░   38.25 %
-JavaScript        9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-Git               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript   0 secs          ████████████████░░░░░░░░░   64.15 %
+Git          0 secs          █████████░░░░░░░░░░░░░░░░   35.85 %
 ```
 
 <!--END_SECTION:waka-->
