@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2023 - To: 20 September 2023
+From: 14 September 2023 - To: 21 September 2023
 
-SQL                      3 hrs 9 mins    ███████████▒░░░░░░░░░░░░░   45.35 %
-Java                     2 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   36.83 %
-Shell Script             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Java Properties          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Docker                   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Java                     3 hrs           ██████████████░░░░░░░░░░░   55.60 %
+SQL                      1 hr 53 mins    ████████▓░░░░░░░░░░░░░░░░   35.04 %
+Shell Script             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+textmate                 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Swift                    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
