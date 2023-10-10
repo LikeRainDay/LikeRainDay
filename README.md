@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Markdown   1 hr 41 mins    ██████████████████████▒░░   88.87 %
-Go         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Markdown   1 hr 30 mins    ████████████████████████▒   97.02 %
+Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Go         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
