@@ -20,10 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2023 - To: 06 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-C#      13 mins         █████████████████████████   99.92 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown   25 mins         ████████████████▓░░░░░░░░   66.01 %
+C#         13 mins         ████████▒░░░░░░░░░░░░░░░░   33.96 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
