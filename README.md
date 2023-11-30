@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
 C#               1 hr 56 mins    ██████████████████▒░░░░░░   73.15 %
 Markdown         42 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
