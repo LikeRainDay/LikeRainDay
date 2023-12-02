@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2023 - To: 29 November 2023
+From: 24 November 2023 - To: 01 December 2023
 
-C#               1 hr 56 mins    ██████████████████▒░░░░░░   73.15 %
-Markdown         42 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-ShaderLab        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#               7 hrs 21 mins   ████████████████████████▓   99.06 %
+Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+UnityYaml        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
