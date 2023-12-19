@@ -20,10 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2023 - To: 17 December 2023
+From: 11 December 2023 - To: 18 December 2023
 
-Markdown   13 mins         █████████████████████████   99.44 %
-C#         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+C#               52 mins         █████████████████████████   99.87 %
+UnityYaml        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
