@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 06 January 2024
+From: 31 December 2023 - To: 07 January 2024
 
-TypeScript       6 hrs 9 mins    ███████████████▓░░░░░░░░░   63.08 %
-Python           2 hrs 40 mins   ███████░░░░░░░░░░░░░░░░░░   27.35 %
-Markdown         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Other            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TypeScript       10 hrs 45 mins  ██████████████████▒░░░░░░   73.77 %
+Python           2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+Markdown         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Other            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
