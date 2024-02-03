@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2024 - To: 01 February 2024
+From: 26 January 2024 - To: 02 February 2024
 
 Python             2 hrs 23 mins   ████████████▓░░░░░░░░░░░░   50.55 %
 Prisma             43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
