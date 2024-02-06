@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2024 - To: 04 February 2024
+From: 29 January 2024 - To: 05 February 2024
 
-Python             2 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.34 %
-TypeScript         2 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.63 %
-Prisma             41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-YAML               32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Bash               15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+TypeScript             3 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   39.03 %
+Python                 1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+CMake                  1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+Prisma                 38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+YAML                   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
 ```
 
 <!--END_SECTION:waka-->
