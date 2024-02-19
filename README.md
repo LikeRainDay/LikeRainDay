@@ -20,9 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2024 - To: 17 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
-No activity tracked
+Java             2 hrs 11 mins   ███████████████▒░░░░░░░░░   61.96 %
+JavaScript       40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+JSON             17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+XML              16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Other            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
