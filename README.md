@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2024 - To: 28 February 2024
+From: 22 February 2024 - To: 29 February 2024
 
-Java                       8 hrs 1 min     ████████████░░░░░░░░░░░░░   48.41 %
-JavaScript                 2 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-TypeScript                 1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Vue.js                     47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-.env file                  40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Java                       11 hrs 4 mins   ██████████████▓░░░░░░░░░░   58.07 %
+JavaScript                 2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Vue.js                     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Docker                     45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON                       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
