@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2024 - To: 03 March 2024
+From: 26 February 2024 - To: 04 March 2024
 
-Java                       11 hrs          ████████████████▓░░░░░░░░   66.20 %
-Vue.js                     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-JavaScript                 1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Docker                     45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Properties                 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Java              13 hrs 33 mins  ███████████████████▓░░░░░   78.46 %
+Vue.js            1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+XML               53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Properties        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+textmate          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
