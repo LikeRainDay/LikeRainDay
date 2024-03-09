@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 February 2024 - To: 07 March 2024
+From: 01 March 2024 - To: 08 March 2024
 
-Java                  8 hrs 40 mins   ████████████████▓░░░░░░░░   66.90 %
-Vue.js                2 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-XML                   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Java Properties       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-YAML                  19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Java                  9 hrs 46 mins   ████████████████▓░░░░░░░░   67.21 %
+Vue.js                2 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+XML                   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Java Properties       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Properties            23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
