@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2024 - To: 05 April 2024
+From: 30 March 2024 - To: 06 April 2024
 
 Java                  13 hrs 2 mins   █████████████████▓░░░░░░░   70.43 %
 Vue.js                3 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
