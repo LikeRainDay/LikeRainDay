@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2024 - To: 24 April 2024
+From: 18 April 2024 - To: 25 April 2024
 
-Docker                5 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.59 %
-Java                  1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Dockerfile            1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Groovy                1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Lua                   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Docker                4 hrs 41 mins   ███████████▓░░░░░░░░░░░░░   46.42 %
+Dockerfile            1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+Java                  56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+GDScript3             49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+Groovy                49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 ```
 
 <!--END_SECTION:waka-->
