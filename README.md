@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2024 - To: 20 May 2024
+From: 14 May 2024 - To: 21 May 2024
 
-Java               9 hrs 3 mins    ████████████████████████▓   98.74 %
-Groovy             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Gradle             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-spring.factories   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Java                  15 hrs 8 mins   ████████████████████████░   95.36 %
+HTTP Request          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Groovy                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+YAML                  6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Spring Boot Imports   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
