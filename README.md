@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2024 - To: 24 May 2024
+From: 18 May 2024 - To: 25 May 2024
 
 Java                  26 hrs 56 mins  █████████████████████░░░░   83.88 %
 Gradle                1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
