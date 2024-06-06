@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2024 - To: 04 June 2024
+From: 29 May 2024 - To: 05 June 2024
 
-Java                  10 hrs 28 mins  ██████████░░░░░░░░░░░░░░░   39.66 %
-Kotlin                2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-VTL                   1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Gradle                1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-GLSL shader           1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Java                  7 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   36.59 %
+Kotlin                2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+VTL                   1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+GLSL shader           1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Velocity              1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
 ```
 
 <!--END_SECTION:waka-->
