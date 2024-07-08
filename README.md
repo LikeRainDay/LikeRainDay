@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2024 - To: 06 July 2024
+From: 30 June 2024 - To: 07 July 2024
 
-Java                  23 hrs 1 min    ██████████████████▒░░░░░░   73.59 %
-YAML                  1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Groovy                1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-HTTP Request          1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Gradle                1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Java                  23 hrs 1 min    █████████████████▒░░░░░░░   69.83 %
+YAML                  2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Groovy                1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+HTTP Request          1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Gradle                1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
