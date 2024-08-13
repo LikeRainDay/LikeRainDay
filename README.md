@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2024 - To: 11 August 2024
+From: 05 August 2024 - To: 12 August 2024
 
-Java                  15 hrs 42 mins  █████████████░░░░░░░░░░░░   52.49 %
-YAML                  3 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-Rust                  2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-XML                   1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-Properties            1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Java                  16 hrs 51 mins  ███████████████░░░░░░░░░░   60.57 %
+YAML                  2 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+XML                   2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Rust                  1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Properties            57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
