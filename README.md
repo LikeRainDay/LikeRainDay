@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2024 - To: 25 August 2024
+From: 19 August 2024 - To: 26 August 2024
 
-Java                  17 hrs 16 mins  █████████████████░░░░░░░░   68.47 %
-YAML                  2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-HTTP Request          1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Groovy                59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Rust                  55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Java                  19 hrs 59 mins  ██████████████████▓░░░░░░   74.61 %
+YAML                  1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+HTTP Request          1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Markdown              41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Groovy                33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
