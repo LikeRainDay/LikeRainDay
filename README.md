@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2024 - To: 07 September 2024
+From: 01 September 2024 - To: 08 September 2024
 
 Java                  11 hrs 17 mins  ███████████████░░░░░░░░░░   60.50 %
 Go                    2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
