@@ -20,13 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-Java                  30 mins         ███████████████▓░░░░░░░░░   62.79 %
-Go                    9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.29 %
-YAML                  7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
-Markdown              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-SQL                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
