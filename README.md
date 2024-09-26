@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2024 - To: 24 September 2024
+From: 18 September 2024 - To: 25 September 2024
 
-XML                   36 mins         ████████████░░░░░░░░░░░░░   48.05 %
-Java                  24 mins         ████████░░░░░░░░░░░░░░░░░   32.48 %
-YAML                  7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Docker                6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Markdown              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Java                  17 mins         █████████████████████░░░░   83.39 %
+YAML                  3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+XML                   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+FTL                   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Spring Boot Imports   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
