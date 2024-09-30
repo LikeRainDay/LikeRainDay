@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2024 - To: 28 September 2024
+From: 22 September 2024 - To: 29 September 2024
 
-C#                    0 secs          ████████████████▒░░░░░░░░   65.96 %
-Java                  0 secs          ████████▒░░░░░░░░░░░░░░░░   33.24 %
-Spring Boot Imports   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Gradle                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Groovy                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java                  3 hrs 25 mins   █████████▓░░░░░░░░░░░░░░░   38.96 %
+Docker                2 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
+YAML                  1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+XML                   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Groovy                19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
