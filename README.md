@@ -20,13 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-Java                  44 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.26 %
-textmate              39 mins         ██████░░░░░░░░░░░░░░░░░░░   24.55 %
-XML                   36 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
-YAML                  24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Groovy                6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+GDScript3   5 mins          ███████████████████████░░   92.33 %
+Other       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
 ```
 
 <!--END_SECTION:waka-->
