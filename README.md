@@ -20,10 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-GDScript3   5 mins          ███████████████████████░░   92.33 %
-Other       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+GDScript3   5 mins          ███████████████▓░░░░░░░░░   62.24 %
+Java        2 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
+YAML        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Other       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Gradle      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
