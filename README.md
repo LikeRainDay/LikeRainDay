@@ -20,11 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Other       1 hr 6 mins     █████████████████████▓░░░   86.56 %
-GDScript3   10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-SQL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other       46 mins         ████████████████████▒░░░░   80.68 %
+GDScript3   11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
 ```
 
 <!--END_SECTION:waka-->
