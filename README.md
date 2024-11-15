@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2024 - To: 13 November 2024
+From: 07 November 2024 - To: 14 November 2024
 
-GDScript3   15 mins         █████████████████▓░░░░░░░   70.10 %
-YAML        6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.71 %
-Java        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+GDScript3   11 mins         ████████████████░░░░░░░░░   63.70 %
+YAML        6 mins          █████████░░░░░░░░░░░░░░░░   36.07 %
+Java        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
