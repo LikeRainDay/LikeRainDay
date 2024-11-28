@@ -20,9 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2024 - To: 26 November 2024
+From: 20 November 2024 - To: 27 November 2024
 
-No activity tracked
+Java       8 mins          ███████████████████████▒░   93.05 %
+XML        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Docker     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
