@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 01 December 2024
+From: 25 November 2024 - To: 02 December 2024
 
 HTTP Request          39 mins         ████████░░░░░░░░░░░░░░░░░   32.40 %
 Java                  32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
