@@ -20,13 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2024 - To: 12 December 2024
+From: 06 December 2024 - To: 13 December 2024
 
-Java           16 mins         ███████████████▓░░░░░░░░░   62.59 %
-YAML           4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-JavaScript     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-HTTP Request   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-XML            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+JavaScript   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
