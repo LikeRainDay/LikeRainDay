@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2024 - To: 24 December 2024
+From: 18 December 2024 - To: 25 December 2024
 
-Java           13 mins         ███████████████░░░░░░░░░░   60.08 %
-Shell Script   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
-Markdown       3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Java           12 mins         ███████████████████░░░░░░   75.69 %
+Markdown       3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+Shell Script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Properties     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
