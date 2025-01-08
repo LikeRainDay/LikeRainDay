@@ -20,13 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 31 December 2024 - To: 07 January 2025
 
-YAML             1 hr 32 mins    ███████████████▓░░░░░░░░░   63.22 %
-textmate         24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-Docker           11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-SQL              10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-GitIgnore file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
