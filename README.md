@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
 Other             53 mins         ███████████▒░░░░░░░░░░░░░   45.58 %
 Protocol Buffer   29 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
