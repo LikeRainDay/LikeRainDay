@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2025 - To: 23 January 2025
+From: 17 January 2025 - To: 24 January 2025
 
-Go                7 hrs 38 mins   ███████████████████▓░░░░░   79.13 %
-Protocol Buffer   45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Java              25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-protobuf          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-go.mod            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Go                7 hrs 58 mins   ███████████████████▒░░░░░   77.45 %
+Protocol Buffer   1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+protobuf          26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Java              24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+go.mod            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
