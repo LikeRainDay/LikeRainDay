@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
-Go                2 hrs 54 mins   █████████████░░░░░░░░░░░░   51.70 %
-protobuf          47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-Protocol Buffer   45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-SQL               28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-YAML              17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+protobuf          52 mins         ████████▓░░░░░░░░░░░░░░░░   35.23 %
+Go                51 mins         ████████▓░░░░░░░░░░░░░░░░   34.64 %
+Protocol Buffer   43 mins         ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+YAML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
