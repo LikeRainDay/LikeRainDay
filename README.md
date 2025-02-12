@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2025 - To: 10 February 2025
+From: 04 February 2025 - To: 11 February 2025
 
-protobuf          50 mins         ██████████▓░░░░░░░░░░░░░░   42.58 %
-Go                41 mins         █████████░░░░░░░░░░░░░░░░   35.75 %
-Protocol Buffer   24 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+protobuf          49 mins         ███████████▓░░░░░░░░░░░░░   46.75 %
+Go                34 mins         ████████░░░░░░░░░░░░░░░░░   32.00 %
+Protocol Buffer   22 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
