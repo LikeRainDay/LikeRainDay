@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2025 - To: 17 February 2025
+From: 11 February 2025 - To: 18 February 2025
 
 Rust         3 hrs           ██████████████████████▓░░   90.58 %
 JSON         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
