@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2025 - To: 02 March 2025
+From: 24 February 2025 - To: 03 March 2025
 
-Go                17 hrs 46 mins  ██████████████████████▓░░   90.06 %
-YAML              1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Rust              28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Java Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Markdown          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Go                13 hrs 32 mins  ██████████████████░░░░░░░   72.39 %
+Rust              2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+YAML              1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Java              59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Java Properties   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
