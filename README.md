@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2025 - To: 08 April 2025
+From: 02 April 2025 - To: 09 April 2025
 
-Markdown              11 hrs 11 mins  ███████████▒░░░░░░░░░░░░░   45.40 %
-Rust                  4 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
-TypeScript            2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-Go                    1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-MDX                   1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Markdown              11 hrs 11 mins  █████████▓░░░░░░░░░░░░░░░   38.64 %
+Java                  6 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
+Rust                  3 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+TypeScript            2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+MDX                   1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
