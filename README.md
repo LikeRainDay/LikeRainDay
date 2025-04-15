@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2025 - To: 13 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
-Markdown          11 hrs 2 mins   ███████▒░░░░░░░░░░░░░░░░░   28.70 %
-Java              10 hrs 55 mins  ███████░░░░░░░░░░░░░░░░░░   28.41 %
-Rust              5 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-JSON              4 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-TypeScript        2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Java              14 hrs 48 mins  █████████░░░░░░░░░░░░░░░░   36.40 %
+Markdown          11 hrs 18 mins  ███████░░░░░░░░░░░░░░░░░░   27.80 %
+JSON              4 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+Rust              4 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+MDX               1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
