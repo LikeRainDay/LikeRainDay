@@ -20,13 +20,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2025 - To: 20 May 2025
+From: 14 May 2025 - To: 21 May 2025
 
-Java              17 hrs 32 mins  █████████████▓░░░░░░░░░░░   54.88 %
-JavaScript        3 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-Markdown          2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Fluent            1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-GDScript3         1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Java                               15 hrs 8 mins   █████████████▒░░░░░░░░░░░   52.91 %
+JavaScript                         3 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Markdown                           2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+GDScript3                          1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+TypeScript                         1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
