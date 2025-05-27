@@ -9,9 +9,7 @@
 
 🚀Welcome to the rain planet🌎
 
-<center>
-<img align='center'  src="https://source.unsplash.com/user/rainyhehe/likes">
-</center>
+
 
 📊 **This week I spent my time on**
 
@@ -31,11 +29,6 @@ JSON                               1 hr 23 mins    █▒░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LikeRainyDay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LikeRainyDay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
