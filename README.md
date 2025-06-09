@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Focused on full stack development, proficient in Java, Python, JavaScript, MySQL, distributed systems, Android & iOS & HarmonyOS, React, Flutter, Vue, Node.js
+- 💼 Focused on full stack development, proficient in Java, Python, Go, Rust, JavaScript, MySQL, distributed systems, Android & iOS & HarmonyOS, React, Flutter, Vue, Node.js
 - 📝 Sharing my tech journey and growth: [CSDN Blog (Chinese)](https://blog.csdn.net/qq_15807167)
 
 ---
@@ -31,8 +31,11 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="48" height="48" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="Cpp" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="48" height="48" />
@@ -51,7 +54,11 @@
   <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=godot" alt="Godot" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cmake" alt="cmake" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" alt="dynamodb" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="48" height="48" />
 </p>
 
 ---
