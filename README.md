@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2025 - To: 12 June 2025
+From: 06 June 2025 - To: 13 June 2025
 
-Dart                20 hrs 14 mins  ████████▒░░░░░░░░░░░░░░░░   33.05 %
-Java                11 hrs 27 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
-Markdown            7 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-YAML                3 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Gradle Kotlin DSL   3 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Dart                24 hrs 1 min    ██████████░░░░░░░░░░░░░░░   39.44 %
+Java                10 hrs 56 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+Markdown            6 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+Gradle Kotlin DSL   3 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+YAML                1 hr 59 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:waka-->
