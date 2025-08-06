@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2025 - To: 04 August 2025
+From: 29 July 2025 - To: 05 August 2025
 
-Java              20 hrs 29 mins  ██████████████░░░░░░░░░░░   56.39 %
-TypeScript        4 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Markdown          3 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-YAML              1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Python            1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Java              17 hrs 12 mins  ████████████▒░░░░░░░░░░░░   48.68 %
+Markdown          6 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+TypeScript        4 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+MDX               1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Python            1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
