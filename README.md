@@ -68,7 +68,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
 Java         25 hrs 22 mins  ██████████████████░░░░░░░   71.88 %
 Dart         5 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
