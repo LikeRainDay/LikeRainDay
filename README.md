@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2025 - To: 01 September 2025
+From: 26 August 2025 - To: 02 September 2025
 
-Java         23 hrs 49 mins  ██████████████████░░░░░░░   71.76 %
-Dart         5 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
-Groovy       59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-TypeScript   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Java         20 hrs 19 mins  █████████████████▓░░░░░░░   70.87 %
+Dart         4 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+Groovy       1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+TypeScript   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+YAML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
