@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2025 - To: 13 September 2025
+From: 07 September 2025 - To: 14 September 2025
 
-Java         11 hrs 6 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
-Python       6 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.74 %
-TypeScript   5 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-Markdown     2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Other        2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Java         11 hrs 6 mins   ████████░░░░░░░░░░░░░░░░░   31.89 %
+Python       6 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
+TypeScript   5 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
+JSON         2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Markdown     2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
 ```
 
 <!--END_SECTION:waka-->
