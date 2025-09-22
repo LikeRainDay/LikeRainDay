@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 14 September 2025 - To: 21 September 2025
 
-Java              19 hrs 9 mins   ████████████████▓░░░░░░░░   66.78 %
-Python            2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-JSON              1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Fluent            56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-SQL               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Java              19 hrs 9 mins   █████████████████▓░░░░░░░   71.20 %
+Python            2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+Fluent            56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+SQL               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+XML               42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
