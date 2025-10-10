@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-GDScript3        4 hrs 34 mins   █████████████████▓░░░░░░░   70.07 %
-JSON             28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-Godot Resource   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Markdown         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-CSS              16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+GDScript3         5 hrs 48 mins   ██████████████▒░░░░░░░░░░   57.69 %
+Java              1 hr 55 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Markdown          1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Godot Resource    23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+XML               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
