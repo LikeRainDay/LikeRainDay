@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 07 October 2025 - To: 14 October 2025
 
-Java              10 hrs 7 mins   ███████████░░░░░░░░░░░░░░   43.95 %
-GDScript3         5 hrs 36 mins   ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-Python            2 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
-Markdown          1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-YAML              1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Java              14 hrs 52 mins  █████████████░░░░░░░░░░░░   52.60 %
+GDScript3         4 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Python            2 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+YAML              1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Markdown          1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
 ```
 
 <!--END_SECTION:waka-->
