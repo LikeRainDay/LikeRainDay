@@ -68,7 +68,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2025 - To: 31 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
 Java              23 hrs 28 mins  ██████████████████████▓░░   90.87 %
 YAML              56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
