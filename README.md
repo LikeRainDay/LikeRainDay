@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2025 - To: 09 November 2025
+From: 03 November 2025 - To: 10 November 2025
 
-Java              21 hrs 29 mins  ███████████████████░░░░░░   75.71 %
-YAML              2 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Python            1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Docker            1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Fluent            42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Java              19 hrs 9 mins   ███████████████████▓░░░░░   78.20 %
+YAML              1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+XML               1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Docker            1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Fluent            35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
