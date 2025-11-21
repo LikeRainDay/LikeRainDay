@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2025 - To: 19 November 2025
+From: 13 November 2025 - To: 20 November 2025
 
-Java                19 hrs 38 mins  ████████████░░░░░░░░░░░░░   47.86 %
-Dart                8 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-YAML                4 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Markdown            3 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-XML                 1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Java                17 hrs 2 mins   ███████████░░░░░░░░░░░░░░   43.37 %
+Dart                9 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
+YAML                4 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Markdown            3 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+XML                 1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
