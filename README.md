@@ -1,71 +1,52 @@
-![](pic/github-header-image.png)
+<div align="center">
+  <img src="pic/github-header-image.png" width="100%" alt="Header Image" />
+  <h1>Hi there, I'm <a href="https://blog.csdn.net/qq_15807167">LikeRainDay</a>! 👋</h1>
+  <p>
+     <strong>Full Stack Developer</strong> | <strong>Open Source Enthusiast</strong> | <strong>Lifelong Learner</strong>
+  </p>
 
-<p align="center">
-  Full Stack Developer | Open Source Enthusiast | Lifelong Learner
-</p>
+  [![Moon Phase](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
 
----
+  <br/>
 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+  <a href="https://blog.csdn.net/qq_15807167">
+    <img src="https://img.shields.io/badge/CSDN-Blog-c14438?style=for-the-badge&logo=c&logoColor=white" alt="CSDN" />
+  </a>
+  <a href="mailto:houshuai0816@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
----
+<br/>
 
-### 🧑‍💻 About Me
+### 🚀 About Me
 
-- 💼 Focused on full stack development, proficient in Java, Python, Go, Rust, JavaScript, MySQL, distributed systems, Android & iOS & HarmonyOS, React, Flutter, Vue, Node.js
-- 📝 Sharing my tech journey and growth: [CSDN Blog (Chinese)](https://blog.csdn.net/qq_15807167)
+- 💼 **Focus**: Full stack development (Distributed systems, Mobile, Web)
+- 💻 **Languages**: Java, Python, Go, Rust, JavaScript, SQL
+- 📱 **Mobile**: Android, iOS, HarmonyOS, Flutter
+- 🌐 **Web**: React, Vue, Node.js
+- 📝 **Blog**: [CSDN (Chinese)](https://blog.csdn.net/qq_15807167)
 
----
+<br/>
 
-### 📫 Contact
+### 🛠️ Skills Arsenal
 
-[![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/qq_15807167)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:houshuai0816@gmail.com)
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,kotlin,go,rust,cpp,python,js,ts,swift" /> |
+| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,vue,flutter,androidstudio,nodejs" /> |
+| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,dynamodb,elasticsearch,aws,docker,kubernetes,nginx" /> |
+| **Tools & AI** | <img src="https://skillicons.dev/icons?i=vim,jenkins,cmake,prometheus,tensorflow,godot,raspberrypi" /> |
 
-<!-- Add more social links if needed -->
+<br/>
 
----
+### 📊 Statistics
 
-### 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="Cpp" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=godot" alt="Godot" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=cmake" alt="cmake" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=dynamodb" alt="dynamodb" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" alt="raspberrypi" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="48" height="48" />
-</p>
-
----
-
-### 📊 Coding Stats
-
-<!--START_SECTION:waka-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LikeRainDay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <!--START_SECTION:waka-->
 
 ```txt
 From: 01 December 2025 - To: 08 December 2025
@@ -77,16 +58,21 @@ YAML              4 hrs 25 mins   ███░░░░░░░░░░░░�
 JSON              1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LikeRainDay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true">
+<br/>
 
----
+### 📈 Activity
 
-### 📈 GitHub Activity Graph
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LikeRainDay&theme=github-compact" width="100%" alt="Activity Graph" />
+  </a>
+</div>
 
-[![LikeRainDay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LikeRainDay&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<br/>
 
----
-
-Thank you for visiting! ⭐️
+<div align="center">
+  Thank you for visiting! ⭐️
+</div>
