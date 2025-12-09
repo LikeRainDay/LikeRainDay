@@ -55,7 +55,11 @@
         <strong>Tools & AI</strong><br/><br/>
         <img src="https://skillicons.dev/icons?i=vim,jenkins,cmake,prometheus,tensorflow,godot,raspberrypi,vscode,idea,github&perline=5" />
         <br/>
-        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+        <br/>
+        <!-- AI & Modern Editors -->
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Cursor" />
+        <img src="https://img.shields.io/badge/Zed-D83B01?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" />
+        <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
         <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
       </td>
     </tr>
