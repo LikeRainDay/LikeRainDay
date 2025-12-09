@@ -1,51 +1,74 @@
 <div align="center">
   <img src="pic/github-header-image.png" width="100%" alt="Header Image" />
-  <h1>Hi there, I'm <a href="https://blog.csdn.net/qq_15807167">LikeRainDay</a>! 👋</h1>
-  <p>
-     <strong>Full Stack Developer</strong> | <strong>Open Source Enthusiast</strong> | <strong>Lifelong Learner</strong>
-  </p>
 
-  [![Moon Phase](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+  <br/>
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=79FF97&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+LikeRainDay!;Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  </a>
 
   <br/>
 
-  <a href="https://blog.csdn.net/qq_15807167">
-    <img src="https://img.shields.io/badge/CSDN-Blog-c14438?style=for-the-badge&logo=c&logoColor=white" alt="CSDN" />
-  </a>
-  <a href="mailto:houshuai0816@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  [![Moon Phase](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+
+  <p align="center">
+    <a href="https://blog.csdn.net/qq_15807167">
+      <img src="https://img.shields.io/badge/CSDN-Blog-c14438?style=for-the-badge&logo=c&logoColor=white" alt="CSDN" />
+    </a>
+    <a href="mailto:houshuai0816@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <h3>🚀 About Me</h3>
+  <p>
+    I am a passionate <strong>Full Stack Developer</strong> focusing on <strong>Distributed Systems</strong>, <strong>Mobile</strong>, and <strong>Web Technologies</strong>.<br/>
+    I love building scalable applications and exploring new tech stacks.
+  </p>
 </div>
 
 <br/>
 
-### 🚀 About Me
+<div align="center">
+  <h3>🛠️ Skills Arsenal</h3>
 
-- 💼 **Focus**: Full stack development (Distributed systems, Mobile, Web)
-- 💻 **Languages**: Java, Python, Go, Rust, JavaScript, SQL
-- 📱 **Mobile**: Android, iOS, HarmonyOS, Flutter
-- 🌐 **Web**: React, Vue, Node.js
-- 📝 **Blog**: [CSDN (Chinese)](https://blog.csdn.net/qq_15807167)
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td align="center" style="border: none;">
+        <strong>Languages</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=java,kotlin,go,rust,cpp,python,js,ts,swift&perline=5" />
+      </td>
+      <td align="center" style="border: none;">
+        <strong>Frontend & Mobile</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,vue,flutter,androidstudio,nodejs&perline=3" />
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" style="border: none;">
+        <strong>Backend & Cloud</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,dynamodb,elasticsearch,aws,docker,kubernetes,nginx&perline=5" />
+      </td>
+      <td align="center" style="border: none;">
+        <strong>Tools & AI</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=vim,jenkins,cmake,prometheus,tensorflow,godot,raspberrypi&perline=4" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
-
-### 🛠️ Skills Arsenal
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,kotlin,go,rust,cpp,python,js,ts,swift" /> |
-| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,vue,flutter,androidstudio,nodejs" /> |
-| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb,dynamodb,elasticsearch,aws,docker,kubernetes,nginx" /> |
-| **Tools & AI** | <img src="https://skillicons.dev/icons?i=vim,jenkins,cmake,prometheus,tensorflow,godot,raspberrypi" /> |
-
-<br/>
-
-### 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LikeRainDay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <br/>
+  <h3>📊 Coding Statistics</h3>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=LikeRainDay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LikeRainDay&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Top Langs" height="180"/>
+  </p>
+
   <!--START_SECTION:waka-->
 
 ```txt
@@ -63,16 +86,16 @@ JSON              1 hr 17 mins    █░░░░░░░░░░░░░░�
 
 <br/>
 
-### 📈 Activity
-
 <div align="center">
+  <h3>📈 Activity Graph</h3>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LikeRainDay&theme=github-compact" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
-  Thank you for visiting! ⭐️
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=100&section=footer" width="100%" />
 </div>
