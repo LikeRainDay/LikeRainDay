@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Java                11 hrs 28 mins  █████████░░░░░░░░░░░░░░░░   35.67 %
-Python              8 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-Go                  4 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-YAML                2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-Other               1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Java              10 hrs 58 mins  ███████▓░░░░░░░░░░░░░░░░░   30.42 %
+Python            8 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
+Go                4 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+YAML              4 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+JSON              1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
