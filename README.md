@@ -39,7 +39,7 @@
     <tr style="border: none;">
       <td align="center" style="border: none;">
         <strong>Languages</strong><br/><br/>
-        <img src="https://skillicons.dev/icons?i=java,kotlin,go,rust,cpp,python,js,ts,swift&perline=5" />
+        <img src="https://skillicons.dev/icons?i=rust,java,kotlin,go,cpp,python,js,ts,swift&perline=5" />
       </td>
       <td align="center" style="border: none;">
         <strong>Frontend & Mobile</strong><br/><br/>
@@ -53,7 +53,10 @@
       </td>
       <td align="center" style="border: none;">
         <strong>Tools & AI</strong><br/><br/>
-        <img src="https://skillicons.dev/icons?i=vim,jenkins,cmake,prometheus,tensorflow,godot,raspberrypi&perline=4" />
+        <img src="https://skillicons.dev/icons?i=vim,jenkins,cmake,prometheus,tensorflow,godot,raspberrypi,vscode,idea,github&perline=5" />
+        <br/>
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+        <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
       </td>
     </tr>
   </table>
@@ -82,6 +85,13 @@ JSON              1 hr 17 mins    █░░░░░░░░░░░░░░�
 ```
 
   <!--END_SECTION:waka-->
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🧩 Daily Dose of Fun</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%23151515&textColor=%23ffffff" alt="Jokes Card" />
 </div>
 
 <br/>
