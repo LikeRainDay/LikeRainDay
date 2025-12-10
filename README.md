@@ -39,7 +39,7 @@
     <tr style="border: none;">
       <td align="center" style="border: none;">
         <strong>Languages</strong><br/><br/>
-        <img src="https://skillicons.dev/icons?i=java,kotlin,go,rust,cpp,python,js,ts,swift&perline=5" />
+        <img src="https://skillicons.dev/icons?i=rust,java,kotlin,go,cpp,python,js,ts,swift&perline=5" />
       </td>
       <td align="center" style="border: none;">
         <strong>Frontend & Mobile</strong><br/><br/>
@@ -53,7 +53,14 @@
       </td>
       <td align="center" style="border: none;">
         <strong>Tools & AI</strong><br/><br/>
-        <img src="https://skillicons.dev/icons?i=vim,jenkins,cmake,prometheus,tensorflow,godot,raspberrypi&perline=4" />
+        <img src="https://skillicons.dev/icons?i=vim,jenkins,cmake,prometheus,tensorflow,godot,raspberrypi,vscode,idea,github&perline=5" />
+        <br/>
+        <br/>
+        <!-- AI & Modern Editors -->
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Cursor" />
+        <img src="https://img.shields.io/badge/Zed-D83B01?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" />
+        <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+        <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
       </td>
     </tr>
   </table>
@@ -63,11 +70,6 @@
 
 <div align="center">
   <h3>📊 Coding Statistics</h3>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=LikeRainDay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="GitHub Stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LikeRainDay&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Top Langs" height="180"/>
-  </p>
 
   <!--START_SECTION:waka-->
 
@@ -82,6 +84,13 @@ JSON              1 hr 14 mins    ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🧩 Daily Dose of Fun</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%23151515&textColor=%23ffffff" alt="Jokes Card" />
 </div>
 
 <br/>
