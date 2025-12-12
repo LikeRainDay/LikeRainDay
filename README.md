@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2025 - To: 10 December 2025
+From: 04 December 2025 - To: 11 December 2025
 
-Java              12 hrs 54 mins  ████████▒░░░░░░░░░░░░░░░░   33.37 %
-Go                6 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-YAML              5 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-Python            5 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-Bash              1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Java              14 hrs 50 mins  ██████████▒░░░░░░░░░░░░░░   41.58 %
+Go                6 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
+YAML              5 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Python            1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+XML               1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
