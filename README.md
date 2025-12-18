@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2025 - To: 16 December 2025
+From: 10 December 2025 - To: 17 December 2025
 
-Java              17 hrs 19 mins  ████████████████████▒░░░░   81.97 %
-YAML              2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-XML               41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Bash              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Java Properties   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Java              18 hrs 25 mins  ███████████████████░░░░░░   76.61 %
+YAML              4 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+XML               27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Markdown          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
