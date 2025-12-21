@@ -74,10 +74,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-Java              20 hrs 20 mins  ████████████████████░░░░░   80.19 %
-YAML              4 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Java              20 hrs 20 mins  ████████████████████░░░░░   80.17 %
+YAML              4 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
 Markdown          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 Other             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 JSON              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
