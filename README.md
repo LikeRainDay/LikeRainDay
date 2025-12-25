@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Java              15 hrs 25 mins  ██████████████▒░░░░░░░░░░   57.10 %
-Go                4 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
-YAML              3 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Protocol Buffer   1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Dart              28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Java              12 hrs 27 mins  ████████████▓░░░░░░░░░░░░   50.56 %
+Go                5 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+YAML              2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Protocol Buffer   2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Rust              35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
