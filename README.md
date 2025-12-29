@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2025 - To: 27 December 2025
+From: 21 December 2025 - To: 28 December 2025
 
-TypeScript        9 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   30.21 %
-Java              6 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-Go                5 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-YAML              2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Protocol Buffer   2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+TypeScript        10 hrs 41 mins  ███████▓░░░░░░░░░░░░░░░░░   30.59 %
+Java              6 hrs 38 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+Go                4 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+YAML              2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Rust              2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 ```
 
 <!--END_SECTION:waka-->
