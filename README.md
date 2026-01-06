@@ -74,13 +74,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-TypeScript        9 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
-Rust              7 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-Java              5 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-Markdown          3 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-YAML              1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+TypeScript        8 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
+Rust              7 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+Markdown          4 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Java              4 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+YAML              2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 ```
 
 <!--END_SECTION:waka-->
