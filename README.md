@@ -101,7 +101,9 @@ Bash              2 hrs 4 mins    █▒░░░░░░░░░░░░░�
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RainLib&theme=github-compact" width="100%" alt="Activity Graph" />
   </a>
 </div>
+
 ![My GitHub Game](game.gif)
+
 <br/>
 <br/>
 
