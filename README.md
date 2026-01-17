@@ -98,7 +98,7 @@ Bash              2 hrs 4 mins    █▒░░░░░░░░░░░░░�
 <div align="center">
   <h3>📈 Activity Graph</h3>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LikeRainDay&theme=github-compact" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RainLib&theme=github-compact" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
